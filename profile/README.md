@@ -20,8 +20,29 @@ A ideia é manter um ambiente aberto para testes, evolução constante e compart
 </div>
 
 <div align="center">
-  <h2>Tecnologias usadas:</h2>
-  <div class="images-tecnologias">
-    
+  <h2>Tecnologias utilizadas</h2>
+  <h3>Liguagens de Programação:</h3>
+  <div class="images-tecnologias-linguagens">
+    <img width="75px" title="Java" alt="logo da linguagem JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img width="75px" title="JavaScript" alt="logo da linguagem JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img width="75px" title="TypeScript" alt="logo da linguagem TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   </div>
+  <h3>Banco de dados:</h3>
+  <div class="images-tecnologias-db">
+    <img width="75px" title="Postgres" alt="logo do Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+    <img width="75px" title="MySQL" alt="logo do MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+    <img width="75px" title="MongoDB" alt="logo do MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+    <img width="75px" title="Redis" alt="logo do Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"/>
+  </div>
+  <h3>Bibliotecas e FrameWorks</h3>
+  <div class="images-tecnologias-ferramentas">
+    <img width="40px" title="Spring" alt="logo do Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+    <img width="40px" title="NestJS" alt="logo do NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
+    <img width="40px" title="NodeJS" alt="logo do NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+    <img width="40px" title="Express" alt="logo do Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
+    <img width="40px" title="React" alt="logo do React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+    <img width="40px" title="NextJS" alt="logo do NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+    <img width="40px" title="Booststrap" alt="logo do BootStrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+  </div>
+  
 </div>
